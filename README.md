@@ -1,19 +1,19 @@
-# 👋 ¡Hola, soy Lluís, también conocido como Pangolu!
+# 👋 ¡Hola, soy Lluís, también conocido como Pangolu!👋
 
 ### 🚀 Sobre mí
 - 🔭 Actualmente estudiando Desarrollo de Aplicaciones Web y Bellas Artes.
 - ⚡ Aprendiendo cada día...
 - 🎨 Objetivo: compaginar el mundo del arte con el mundo de la programación.
-- 🌱 Un dato random: ¡colecciono plantas carnivoras!
+- 🌱 Un dato random: ¡colecciono plantas carnívoras!
 
 ---
-
+<!--
 ### 📊 Estadísticas de GitHub
 
 ![Pangolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pangolu&show_icons=true&theme=tokyonight)
 
 ---
-
+-->
 ### 💻 Lenguajes más usados
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pangolu&layout=compact&theme=tokyonight)
