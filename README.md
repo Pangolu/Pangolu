@@ -15,10 +15,7 @@
 ---
 -->
 ### 💻 Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pangolu&layout=compact&theme=tokyonight)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pangolu&layout=compact&theme=radical)
 
 
 <!--
